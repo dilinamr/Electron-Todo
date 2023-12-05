@@ -1,0 +1,10 @@
+.tasks {
+  display: flex;
+}
+.task_bar {
+  margin-right: 20px;
+  font-size: large;
+}
+.line_through {
+  text-decoration: line-through;
+}
